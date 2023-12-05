@@ -24,7 +24,7 @@ const NotFound = () => {
   return (
     <div className="not-found">
       <h1>Fuck off</h1>
-      <h2>You're not supposed to be here</h2>
+      <h2>You are not supposed to be here</h2>
       <Link href="/" className={styles.btn}>
         back to Homepage in {count}
       </Link>
